@@ -2,11 +2,12 @@
 
 Transform your device into an electronic instrument that responds to touch, tilt, and motion. Create hypnotic soundscapes with an intuitive interface inspired by the theremin and modern synthesis techniques.
 
-![Watch the Demo](https://www.youtube.com/watch?v=NHBF3pVmhHw)
+Demo Video:
+https://www.youtube.com/watch?v=NHBF3pVmhHw
 
 ## 🚀 TestFlight  
 Try the beta version:  
-[Join TestFlight](http://testflight.apple.com/join/mpRP...)
+https://testflight.apple.com/join/mpRPTGPx
 
 ## 🎵 Features  
 - Gesture-based sound control with responsive visual feedback  
@@ -22,10 +23,6 @@ Try the beta version:
 - Sound designers and experimenters  
 - Visual artists exploring audio  
 - Anyone interested in music creation  
-
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).  
-
 
 ## 📬 Contact  
 For questions or collaborations, reach out via ollmann.ph@gmail.com
