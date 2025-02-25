@@ -1,5 +1,8 @@
 # Fidget Synth (WWDC25)
 
+![App Screenshot](screenshots.png)
+
+
 Transform your device into an electronic instrument that responds to touch, tilt, and motion. Create hypnotic soundscapes with an intuitive interface inspired by the theremin and modern synthesis techniques.
 
 Demo Video:
